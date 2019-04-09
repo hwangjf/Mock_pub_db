@@ -10,11 +10,13 @@ Familiarize yourself with the attributes for each pup. Try going to `/pups/:id` 
 
 ## Deliverables
 
-1. Get the data from the server and render all puppy names ONLY in the PuppyContainer
-2. Clicking on a puppy will display the puppy details in the PuppyDetails
+1. Get the data from the server and render all puppy names in the PuppyContainer
+2. Clicking on a puppy should display the puppy details in the PuppyDetails
 3. Update the dog to toggle whether the dog is good/bad
 4. Search by name and/or by breed
-5. Filter to render all the dogs or only show the good dogs
+  * should be an input field to filter the dogs
+5. Filter to render all the dogs or only show the good dogs with a button to toggle
+
 
 ## Bonus
 
